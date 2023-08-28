@@ -40,6 +40,4 @@ public class HellowWorld {
 	
 }
 
-public class HellowWorld2 {
-	
-}
+
